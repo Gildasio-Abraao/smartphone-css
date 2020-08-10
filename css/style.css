@@ -13,10 +13,7 @@
     justify-content: center;
     width: 100%;
     max-width: 100%;
-    height: 657px;
-    background: #780206;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to left, #061161, #780206);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to left, #061161, #780206); 
+    height: 100vh;
     max-height: 100%;
     animation: blur-effect 3s;
 }
@@ -118,7 +115,7 @@ background: linear-gradient(to right, #093637, #44A08D); /* W3C, IE 10+/ Edge, F
     width: 97%;
     border-radius: 20px;
     height: 98%;
-    background-image: url('../wallpaper/Genuine-Abstract-1080x2340.jpg');
+    background-image: url('../wallpaper/3.jpg');
     background-attachment: fixed;
     background-size: contain;
     background-position: center;

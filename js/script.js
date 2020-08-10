@@ -11,9 +11,15 @@ function Timer() {
     var text = document.getElementById('day').innerText = `${dayName[now.getDay()]}, ${monName[now.getMonth()]} ${now.getDate()}`;
     setTimeout('Timer()', 500);
     if(hours < 10) {
-        var hours = document.getElementById('hour').innerHTML = `0${h}`;
+        hours = document.getElementById('hour').innerHTML = `0${h}`;
     }
-    else if(min < 10) {
-        var min = document.getElementById('minute').innerHTML = `0${m}`;
+    else {
+        return false;
+    }
+    if(min < 10) {
+        min = document.getElementById('minute').innerHTML = `0${m}`;
+    }
+    else {
+        return false;
     }
 }
