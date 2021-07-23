@@ -1,5 +1,6 @@
 # smartphone-css
 ~ PTBR
+
 Smartphone feito com HTML, CSS e JS.
 
 ~ ENG
