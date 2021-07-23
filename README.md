@@ -1,4 +1,7 @@
 # smartphone-css
-Smartphone Xiaomi feito com HTML, CSS e JS.
+~ PTBR
+Smartphone feito com HTML, CSS e JS.
 
-Projeto com foco em CSS3
+~ ENG
+
+Smartphone made with HTML, CSS and JS
